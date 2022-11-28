@@ -11,8 +11,7 @@
 
 // Crear un arreglo con los días de la semana
 
-
-
+const demodays = ['Monday','Tuesday','Wensday','Thusday','Friday','Saturday','Sunday'];
 
 
 
